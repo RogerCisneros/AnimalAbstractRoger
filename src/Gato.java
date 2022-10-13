@@ -10,6 +10,10 @@ public class Gato extends Anmal {
             System.out.println(this.getNombre()+" dice: MIAU");
         }
 
+        public void prueba(){
+            System.out.println("HOla prueba");
+        }
+
 
 }
 
