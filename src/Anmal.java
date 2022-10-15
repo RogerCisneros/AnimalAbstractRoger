@@ -23,5 +23,5 @@ public abstract class Anmal {
 
     public abstract void sonido();
 
-    public void muere(){System.out.println("se ha muerto");}
+    public void muere(){System.out.println("El animal a muerto");}
 }

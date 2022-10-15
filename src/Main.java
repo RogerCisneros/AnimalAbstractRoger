@@ -16,6 +16,6 @@ public class Main {
         g.sonido();
 
         pr.muerde();
-
+        pr.acompaña();
     }
 }

@@ -16,4 +16,5 @@ public class Perro extends Anmal {
     }
 
     public void muerde(){System.out.println("El perro cuando modió a una niña");}
+    public void acompaña(){System.out.println("El único que te acompañará hasta la muerte");}
 }
