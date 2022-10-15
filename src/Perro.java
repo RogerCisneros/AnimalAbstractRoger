@@ -15,4 +15,5 @@ public class Perro extends Anmal {
         System.out.println(this.getNombre()+" dice GUAU");
     }
 
+    public void muerde(){System.out.println("El perro cuando modió a una niña");}
 }

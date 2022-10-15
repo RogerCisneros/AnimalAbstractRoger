@@ -22,4 +22,6 @@ public abstract class Anmal {
     }
 
     public abstract void sonido();
+
+    public void muere(){System.out.println("se ha muerto");}
 }
